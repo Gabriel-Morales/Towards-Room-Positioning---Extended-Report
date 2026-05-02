@@ -8,4 +8,6 @@ I chose a repository since I can update it at any time with more details and dat
 For now, the repository only contains the initial extended report. However, over time and probably soon I will add an archived version of the longer paper since we had to reduce the size to fit workshop constraints.
 
 
+* Original Averages: This file is the original averages composed of all ten sessions for each room in the pre-condensed version. To see all non-averaged data, look at the extended report.
+
 # FAQ (Coming Soon!)
