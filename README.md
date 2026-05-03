@@ -9,5 +9,8 @@ For now, the repository only contains the initial extended report. However, over
 
 
 * Original Averages: This file is the original averages composed of all ten sessions for each room in the pre-condensed version. To see all non-averaged data, look at the extended report.
+* The new averages in the workshop paper is based on the sum of the scores in each column divided by the total number of rooms. Then, we round those to the nearest tenth (>.5 is next int). Note, that this kind of scaling can cause scores to float a little higher or lower, which is a *known gap*. We had to condense the results to fit within the paper (see expanded threats section). 
 
 # FAQ (Coming Soon!)
+
+# Expanded Threats and Future Improvements (Coming Soon)
