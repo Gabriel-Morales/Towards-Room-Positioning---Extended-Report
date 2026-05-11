@@ -11,6 +11,8 @@ For now, the repository only contains the initial extended report. However, over
 * Original Averages: This file is the original averages composed of all ten sessions for each room in the pre-condensed version. To see all non-averaged data, look at the extended report.
 * The new averages in the workshop paper is based on the sum of the scores in each column divided by the total number of rooms. It's kind of an average of averages (weird I know) - this is why it's labeled as condensed. Then, we round those to the nearest tenth (>=.5 is next int). Note, that this kind of scaling with rounding can skew scores to float a little higher or lower, which is a *known gap*. We had to condense the results to fit within the paper (see expanded threats section). 
 
-# FAQ (Coming Soon!)
+# FAQ (WIP, more soon)
+
+* <b>Is there any data I can maybe use?</b> Yes. Since the dataset is so large from our frame-based processing, (~20TB IQ-only & ~5TB for spectrograms), we decided to host a small subset of data (~2GB) for both frequency types located here: https://sites.google.com/view/paperdata-spectrographicfusion/home
 
 # Expanded Threats and Future Improvements (Coming Soon)
